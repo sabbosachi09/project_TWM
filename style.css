@@ -373,7 +373,7 @@ footer img {
     }
 
     nav img {
-        width: 80px;
+        width: 85px;
         padding: 0;
     }
 
@@ -386,12 +386,20 @@ footer img {
         padding-top: 60px;
     }
 
+    .glass {
+        backdrop-filter: blur(40px);
+    }
+
     .row {
         padding: 0 40px;
     }
 
     .col1 {
         padding: 0;
+    }
+
+    .col1 h1 {
+        font-size: 40px;
     }
 
     .col1 p {
@@ -404,7 +412,7 @@ footer img {
 
     .col1 button {
         background: none;
-        font-size: 18px;
+        font-size: 17px;
         cursor: none;
     }
 
@@ -414,9 +422,6 @@ footer img {
         color: rgb(74, 228, 255);
     }
 
-    .col1 h1 {
-        font-size: 50px;
-    }
 
     .col2 {
         display: none;
@@ -433,11 +438,11 @@ footer img {
     .videos h1,
     .timing h1,
     .contact h1 {
-        font-size: 35px;
+        font-size: 30px;
     }
 
     .about section:nth-child(2) h3 {
-        font-size: 20px;
+        font-size: 22px;
     }
 
     .about section:nth-child(2) p {
@@ -496,14 +501,14 @@ footer img {
     }
 
     footer p:nth-child(1) {
-        font-size: 13px;
+        font-size: 12px;
     }
-    
+
     footer p:nth-child(2) {
         bottom: 20px;
         right: 5px;
     }
-    
+
     footer img {
         width: 30px;
     }
