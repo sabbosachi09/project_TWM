@@ -373,7 +373,7 @@ footer img {
     }
 
     nav img {
-        width: 85px;
+        width: 80px;
         padding: 0;
     }
 
@@ -382,8 +382,8 @@ footer img {
     }
 
     .header {
-        height: 50vh;
-        padding-top: 60px;
+        height: 40vh;
+        padding-top: 65px;
     }
 
     .glass {
@@ -399,7 +399,7 @@ footer img {
     }
 
     .col1 h1 {
-        font-size: 40px;
+        font-size: 45px;
     }
 
     .col1 p {
@@ -480,6 +480,10 @@ footer img {
 
     .timing p {
         font-size: 20px;
+    }
+
+    .contact h1 {
+        padding-bottom: 30px;
     }
 
     .contact button {
